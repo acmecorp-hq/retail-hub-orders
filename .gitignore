@@ -1,3 +1,6 @@
 
 # Generated
 /target/
+
+# Build artifacts
+target/
